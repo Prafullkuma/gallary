@@ -1,0 +1,16 @@
+
+.imgGrid{
+    overflow: hidden;
+    height: 0;
+    padding: 50% 0;
+    position: relative;
+    opacity: 0.8;
+}
+.imgGrid img{
+    min-width: 50%;
+    min-height: 50%;
+    max-width: 50%;
+    position: absolute;
+    top:0;
+    left: 0;
+}
